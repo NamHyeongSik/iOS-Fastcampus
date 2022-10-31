@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Translate
+
+  Created by HYEONG SIK NAM on 2022/08/16.
+  
+*/
+
+// TabBar Title
+"Translate" = "Translate";
+"Bookmark" = "Bookmark"; // Navigation title
+
+// Language model
+"Korean" = "Korean";
+"English" = "English";
+"Japanese" = "Japanese";
+"Spanish" = "Spanish";
+
+// Acion Sheet
+"Cancel" = "Cancel";
+
+// Placeholder
+"Enter_text" = "Enter text";
